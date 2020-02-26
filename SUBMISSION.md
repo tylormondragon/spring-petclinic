@@ -1,6 +1,6 @@
 5 pts Your Github account showing that is has been forked from the depaulcdm/springpetclinic
 repository. ![Screen Capture #1](figures/img1.png)
-5 pts Your Travis CI dashboard showing a successful first build.![Screen Capture #1](figures/img2.png)
+5 pts Your Travis CI dashboard showing a successful first build.![Screen Capture #1](figures/img2.png) #3 was my first build - I had to create the .travis.yml file so build 1 and build 2 failed because I didn't catch this beforehand
 5 pts The section of the POM file showing the coordinates after you’ve changed them. ![Screen Capture #1](figures/img3.png) BTW - the group ID was already set to edu.depaul.cdm.se441 so no change was made on my part
 5 pts Your Travis CI dashboard showing a successful build after your change of the group
 ID. No change was made to the pom.xml file - group id was already set to edu.depaul.cdm.se441 - do not have a screenshot as no build was triggered since no change was made
